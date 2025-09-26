@@ -23,15 +23,15 @@ Practice using GitHub by creating a sample repository. Make sure you add a descr
 Explain here how you would run the program and what files need to be available.
 
 ***Hello_World/***
-[│── README.md]
-[│── pgmname1.R]
-[│── filename1.csv]
-[│── examples.html]
+- README.md
+- pgmname1.R
+- filename1.csv
+- examples.html
 
 ## Files Used
 ~~No Files used~~
 
-##Additional Documentation
+## Additional Documentation
 No additional documentation at this time. Here is some **BOLD text**
 
 ## Versioning
