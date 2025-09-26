@@ -14,7 +14,7 @@ This is a sample of a good README.md file that can be used when describing a pro
 
 *Hello World Sample*
 
-##Description
+## Description
 
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 
